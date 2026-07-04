@@ -13,7 +13,7 @@ html{
 body{
     font-family: 'Inter', sans-serif;
     color:#243746;
-    background:#F7F6F2;
+    background:#e2e7f0;
     line-height:1.7;
 }
 
@@ -292,7 +292,7 @@ nav a:hover{
 
     padding:14px 0;
 
-    color:#123B5D;
+    color:#0c5353;
 
     font-size:1.05rem;
 
@@ -332,7 +332,7 @@ Consultoría Contable • Impositiva • Empresarial
 @media(max-width:900px){
 
 header{
-    flex-direction:column;
+    flex-direction:center;
     gap:15px;
 }
 
